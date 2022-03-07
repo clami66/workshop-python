@@ -13,7 +13,7 @@ Before the course begins, you need to install python and the necessary
 libraries on your laptop or you won't be able to run your code.
 Please follow the installation instructions [here](precourse).
 
-# Calendar (this is subject to changes)
+# Calendar
 
 Dates are subjected to changes, but I will let you know in advance if that happens.
 
