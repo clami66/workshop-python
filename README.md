@@ -7,37 +7,37 @@ example programs. Upon completion of the course, attentive
 participants will be able to write simple Python programs from
 scratch and to customize more complex code to fit their needs.
 
+# Pre-course information (IMPORTANT!)
 
-# Important Dates
+Before the course begins, you need to install python and the necessary
+libraries on your laptop or you won't be able to run your code.
+Please follow the installation instructions [here](precourse/README.md).
 
-| Application | Date |
+# Calendar (this is subject to changes)
+
+Dates are subjected to changes, but I will let you know in advance if that happens.
+
+| Week | Lecture | Lab |
 |------------:|:-----|
-| ...opens on | X<sup>rd</sup>, 2019 |
-| ...closes on | X<sup>th</sup>, 2019 |
-| ...is accepted/denied on | X<sup>th</sup>, 2019 |
+| 14   | Monday, April 4th | Wednesday, April 6th |
+| 15   | Monday, April 11th| Wednesday, April 13th|
+| 17   | Monday, April 25th| Wednesday, April 27th|
+| 18   | Monday, April 2nd | Wednesday, May 4th   |
+| 19   | Monday May 9th    | Wednesday, May 11th  |
 
-> Register for the course, using
-[this form](https://goo.gl/forms/53y2SxT7b91DcNh13)
 
-If you don’t receive information according to the above dates, please
-contact <a href="mailto:nina.norgren@scilifelab.se?subject=[Python HT18]
-Registration">Nina Norgren</a>
+# Location
 
-# Audience and Prerequisites
+Al lectures and labs will be held in Jordan/Fermi.
+Check the map [here](https://old.liu.se/karta?l=sv&px_type=2&px_id=169)
+if you don't know where to find the room.
 
-* The course is suitable for complete beginners and assumes no prior
-  programming experience (beyond the ability to use a text editor).
-* A very basic knowledge of UNIX would be an advantage, such as
-  navigating through folders and issuing commands at a shell
-  prompt. We will not teach Unix in detail: Other course are available
-  at SciLifeLab for it.
-* Bring your own laptop with python installed for the practical
-  exercises. Otherwise, please contact <a
-  href="mailto:nina.norgren@scilifelab.se?subject=[Python HT18] I need a laptop">Nina Norgren</a> before the course starts.
-* Due to limited space the course can accommodate maximum of 20 participants.
-  If we receive more applications, participants will be selected based on
-  several criteria. Selection criteria include correct entry requirements,
-  motivation to attend the course as well as gender and geographical balance.
+# Visiting hours/E-mail hours
+
+Teaching is not my main gig, so I will be answering your questions (outside of classes, of course) at a fixed time,
+every Friday from 10AM to 11AM. You are welcome to come to my office at that time, which is located at 2B:586 in the B-house.
+
+For similar reasons, I will be answering e-mails that I received during the week at that same time, give or take.
 
 # Course Content
 
@@ -48,8 +48,8 @@ During this course, you will learn about:
 * Regular expressions and pattern matching
 * Writing functions and best-practice ways of making them usable
 * Reading from and writing to files
-* Code packaging and Python libraries
-* How to work with biological data using external libraries (if time allows).
+* Python libraries for scientific computation
+* Python libraries for plotting
 
 # Learning Objectives
 
@@ -59,26 +59,3 @@ After this course you should be able to:
 * Write file-processing python programs that produce output to the terminal and/or external files.
 * Create stand-alone python programs to process biological data
 * Know how to develop your skills in Python after the course (including debugging)
-
-# Format
-
-* Presentations and demonstrations
-* Practical exercises (both as lab assignments with assistants and on your own).
-
-Main teacher: [Nina Norgren](//nbis.se/about/staff/nina-norgren/)
-
-Prior to the course, you can read a companion
-book
-["Programming Python"](//shop.oreilly.com/product/9780596158118.do),
-or
-["Learning Python"](//shop.oreilly.com/product/0636920028154.do). Such
-a book will also prove useful for your programming tasks, after the
-course is over. It is however not required, and material will be
-presented in class.
-
-# Course fee
-
-A course fee of 2000 SEK will be invoiced to accepted participants.
-This includes lunches, coffee and fika, and course dinner.
-
-> NOTE: NBIS cannot invoice individuals.
