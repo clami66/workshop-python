@@ -32,6 +32,7 @@ First, make sure you have Xcode and CommandLineTools installed and updated to la
 Second, download the latest version of Miniconda3 and run it to install.
 
 `$ curl -o Miniconda3-latest-MacOSX-x86_64.sh https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh`
+
 `$ sh Miniconda3-latest-MacOSX-x86_64.sh`
 
 Follow the instructions on screen, scrolling down, pressing ENTER and replying yes when necessary.
@@ -39,6 +40,7 @@ Install it in the default directory. Restart your terminal window to apply modif
 After restarting, you can type the command below to install Mamba:
 
 `$ conda init`
+
 `$ conda install -n base -c conda-forge mamba`
     
 </details>
@@ -49,11 +51,13 @@ After restarting, you can type the command below to install Mamba:
 First download the latest version of Miniconda3 and run it to install.
 
 `$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+
 `$ sh Miniconda3-latest-Linux-x86_64.sh`
 
 Follow the instructions on screen replying yes when necessary. Restart your terminal window to apply modifications. After restarting, you can type the command below to install Mamba:
 
 `$ conda init`
+
 `$ conda install -n base -c conda-forge mamba`
 
 </details>
@@ -78,16 +82,19 @@ Inside MobaXterm, download Conda with the command:
 Inside MobaXterm, type the commands below to install Conda. Follow the instructions for the installation there.
 
 `$ cd ~/Downloads`
+
 `$ sh Miniconda3-latest-Linux-x86_64.sh`
 
 Inside MobaXterm, Follow the instructions on screen replying yes when necessary. Restart your terminal window to apply modifications. After restarting, you can type the command below to install Mamba:
 
 `$ conda init`
+
 `$ conda install -n base -c conda-forge mamba`
 
 Inside MobaXterm, type the commands below to install the X-server graphical [packages that are needed](https://docs.anaconda.com/anaconda/install/linux/).
 
 `$ sudo apt-get update`
+
 `$ sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6`
 
 Close and open all application and Inside MobaXterm, you will probably will see that your WSL is already listed on the left panel as an available connection. Just double-click it and you will be accessing it via MobaXterm.
@@ -151,4 +158,3 @@ Once the environment is created, we need to activate it in order to use the soft
 From this point on you can run any of the contents from the workshop. For instance, you can directly launch Jupyter Notebooks by typing
 
 `$ jupyter-notebook`
-
