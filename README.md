@@ -11,14 +11,14 @@ scratch and to customize more complex code to fit their needs.
 
 Before the course begins, you need to install python and the necessary
 libraries on your laptop or you won't be able to run your code.
-Please follow the installation instructions [here](precourse/README.md).
+Please follow the installation instructions [here](precourse).
 
 # Calendar (this is subject to changes)
 
 Dates are subjected to changes, but I will let you know in advance if that happens.
 
 | Week | Lecture | Lab |
-|------------:|:-----|
+|-----:|:--------|:----|
 | 14   | Monday, April 4th | Wednesday, April 6th |
 | 15   | Monday, April 11th| Wednesday, April 13th|
 | 17   | Monday, April 25th| Wednesday, April 27th|
