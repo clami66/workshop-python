@@ -18,9 +18,9 @@ install the software for you. This will require extra time so please plan ahead 
 
 ## Conda setup
 
-1. Download and install Conda and Mamba
+### 1. Download and install Conda and Mamba
 
-    Start by installing Conda. I suggest installing Miniconda3 and NOT Anaconda. After installing Conda.
+Start by installing Conda. I suggest installing Miniconda3 and NOT Anaconda. After installing Conda.
 
 <details>
   <summary>On Mac OS X</summary>
@@ -42,50 +42,54 @@ install the software for you. This will require extra time so please plan ahead 
     `$ conda install -n base -c conda-forge mamba`
 </details>
 
-* On Ubuntu
+<details>
+  <summary>On Ubuntu</summary>
 
-    First download the latest version of Miniconda3 and run it to install.
+First download the latest version of Miniconda3 and run it to install.
+
+`$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+`$ sh Miniconda3-latest-Linux-x86_64.sh`
+
+Follow the instructions on screen replying yes when necessary. Restart your terminal window to apply modifications. After restarting, you can type the command below to install Mamba:
+
+`$ conda init`
+`$ conda install -n base -c conda-forge mamba`
+</details>
+
+<details>
+  <summary>On Windows 10</summary>
+
+    Unfortunately, not all packages available on conda are compatible with windows machines. The good news is that Windows 10 offers native linux support via the Windows Subsystem for Linux (WSL2). This allows you to run linux/bash commands from within windows without the need of a virtual machine nor a dual-boot setup (i.e. having 2 operating systems). However, WSL does not offer a complete support for graphical interfaces, so we need additional steps to make that happen.
+
+    On Windows 10, install the WSL if you don’t have it. Follow the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+
+    Once you have that installed, you can [download and install MobaXterm](https://mobaxterm.mobatek.net) (which is the enhanced terminal with graphical capacity).
+    It is recommended that you INSTALL the program and not use the portable version.
+
+    Inside MobaXterm, you will probably will see that your WSL is already listed on the left panel as an available connection. Just double-click it and you will be accessing it via MobaXterm. If by any chance you don’t see it there, close MobaXterm and go to the WSL terminal, because probably the WSL is not allowing SSH connections. You can follow this link for the instructions on how to do it. You need to complete until the step Start or restart the SSH service, while the further steps are optional, but might be useful.
+
+    Inside MobaXterm, download Conda with the command:
 
     `$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+
+    Inside MobaXterm, type the commands below to install Conda. Follow the instructions for the installation there.
+
+    `$ cd ~/Downloads`
     `$ sh Miniconda3-latest-Linux-x86_64.sh`
 
-    Follow the instructions on screen replying yes when necessary. Restart your terminal window to apply modifications. After restarting, you can type the command below to install Mamba:
+    Inside MobaXterm, Follow the instructions on screen replying yes when necessary. Restart your terminal window to apply modifications. After restarting, you can type the command below to install Mamba:
 
     `$ conda init`
     `$ conda install -n base -c conda-forge mamba`
 
-    * On Windows 10
+    Inside MobaXterm, type the commands below to install the X-server graphical [packages that are needed](https://docs.anaconda.com/anaconda/install/linux/).
 
-        Unfortunately, not all packages available on conda are compatible with windows machines. The good news is that Windows 10 offers native linux support via the Windows Subsystem for Linux (WSL2). This allows you to run linux/bash commands from within windows without the need of a virtual machine nor a dual-boot setup (i.e. having 2 operating systems). However, WSL does not offer a complete support for graphical interfaces, so we need additional steps to make that happen.
+    `$ sudo apt-get update`
+    `$ sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6`
 
-        On Windows 10, install the WSL if you don’t have it. Follow the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-
-
-        Once you have that installed, you can [download and install MobaXterm](https://mobaxterm.mobatek.net) (which is the enhanced terminal with graphical capacity).
-        It is recommended that you INSTALL the program and not use the portable version.
-
-        Inside MobaXterm, you will probably will see that your WSL is already listed on the left panel as an available connection. Just double-click it and you will be accessing it via MobaXterm. If by any chance you don’t see it there, close MobaXterm and go to the WSL terminal, because probably the WSL is not allowing SSH connections. You can follow this link for the instructions on how to do it. You need to complete until the step Start or restart the SSH service, while the further steps are optional, but might be useful.
-
-        Inside MobaXterm, download Conda with the command:
-
-        `$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
-
-        Inside MobaXterm, type the commands below to install Conda. Follow the instructions for the installation there.
-  
-        `$ cd ~/Downloads`
-        `$ sh Miniconda3-latest-Linux-x86_64.sh`
-
-        Inside MobaXterm, Follow the instructions on screen replying yes when necessary. Restart your terminal window to apply modifications. After restarting, you can type the command below to install Mamba:
-  
-        `$ conda init`
-        `$ conda install -n base -c conda-forge mamba`
-
-        Inside MobaXterm, type the commands below to install the X-server graphical [packages that are needed](https://docs.anaconda.com/anaconda/install/linux/).
-
-        `$ sudo apt-get update`
-        `$ sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6`
-
-        Close and open all application and Inside MobaXterm, you will probably will see that your WSL is already listed on the left panel as an available connection. Just double-click it and you will be accessing it via MobaXterm.
+    Close and open all application and Inside MobaXterm, you will probably will see that your WSL is already listed on the left panel as an available connection. Just double-click it and you will be accessing it via MobaXterm.
+</details>
 
 2. Create a conda environment from file
 
