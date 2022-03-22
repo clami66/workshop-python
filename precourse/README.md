@@ -50,7 +50,7 @@ the command below to install Mamba:
 </details>
 
 <details>
-  <summary>On Ubuntu</summary>
+  <summary>On Linux (e.g. Ubuntu)</summary>
 
 First download the latest version of Miniconda3 and run it to install.
 
@@ -137,7 +137,7 @@ To download the your_environment.yml file using the command on Terminal:
 <details>
   <summary>On Mac OS or Linux</summary>
   
-  `$ curl -o environment.yaml https://raw.githubusercontent.com/clami66/workshop-python/1ac6e4db2764551671e363763dd47d97d06fa821/precourse/environment-mac.yml`
+  `$ curl -o environment.yaml https://raw.githubusercontent.com/clami66/workshop-python/0422/precourse/environment-mac.yml`
 
 </details>
 
