@@ -20,7 +20,7 @@ install the software for you. This will require extra time so please plan ahead 
 
 ### 1. Download and install Conda and Mamba
 
-Start by installing Minionda..
+Start by installing Miniconda..
 
 <details>
   <summary>On Mac OS X</summary>
@@ -50,7 +50,7 @@ the command below to install Mamba:
 </details>
 
 <details>
-  <summary>On Ubuntu</summary>
+  <summary>On Linux (e.g. Ubuntu)</summary>
 
 First download the latest version of Miniconda3 and run it to install.
 
@@ -135,16 +135,16 @@ Just double-click it and you will be accessing it via MobaXterm.
 To download the your_environment.yml file using the command on Terminal:
 
 <details>
-  <summary>On Mac OS or Ubuntu</summary>
+  <summary>On Mac OS or Linux</summary>
   
-  `$ curl -o environment.yaml https://github.com/clami66/workshop-python/blob/1ac6e4db2764551671e363763dd47d97d06fa821/precourse/environment-mac.yml`
+  `$ curl -o environment.yaml https://raw.githubusercontent.com/clami66/workshop-python/0422/precourse/environment-mac.yml`
 
 </details>
 
 <details>
   <summary>On Windows</summary>
   
-`$ curl -o environment.yaml https://github.com/clami66/workshop-python/blob/1ac6e4db2764551671e363763dd47d97d06fa821/precourse/environment-win.yml`
+`$ curl -o environment.yaml https://raw.githubusercontent.com/clami66/workshop-python/0422/precourse/environment-win.yml`
 
 </details>
 
