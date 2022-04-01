@@ -17,6 +17,8 @@ Please follow the installation instructions [here](precourse).
 
 Dates are subjected to changes, but I will let you know in advance if that happens.
 
+All lectures will be held between 1 and 3 PM.
+
 | Week | Lecture | Lab |
 |-----:|:--------|:----|
 | 14   | Monday, April 4th | Wednesday, April 6th |
