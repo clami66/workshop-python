@@ -29,7 +29,22 @@ All lectures will be held between 1 and 3 PM.
 
 # Slides and exercises
 
+## Download instructions
+
 ** Make sure you `right-click -> Save link as` to download the files! **
+
+When you save a Jupyter Notebook, keep in mind that this will only be visible if it's downloaded in the directory from which you start jupyter!
+
+E.g. If you start Jupyter from the folder `/home/claudio`:
+
+`(workshop) /home/claudio $ jupyter-notebook`
+
+Then you should download the .ipynb file inside `/home/claudio` (or within a folder that is inside `/home/claudio`), otherwise you will not be able to navigate to the notebook from the jupyter browser!
+
+If you use MobaXterm, then the "home" folder is located somewhere inside the MobaXterm installation directory, so you should make sure you save the notebook there. See [this link](https://superuser.com/questions/902765/where-does-mobaxterm-keep-its-home-directory) to check where the home folder is!
+
+## Download links
+
 | Lecture | Slides | Lab notebook |
 |-----:|:--------|:----|
 | 1 (4/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0b047d73436aa1f180a1a8115496719e64c264a3/lectures/Lecture_1.slides.pdf) | [Download (.ipynb)](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_1_Exercise.ipynb) |
