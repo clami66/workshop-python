@@ -193,3 +193,11 @@ From this point on you can run any of the contents from the workshop.
 For instance, you can directly launch Jupyter Notebooks by typing
 
 `$ jupyter-notebook`
+
+### 4. If Jupyter notebook doesn't start
+
+If you see the error `cannot import name 'soft_unicode' from 'markupsafe'` it means you need to install another version of this library. Just run:
+
+`(workshop)$ conda install markupsafe==2.0.1`
+
+And follow the instructions. Thien it should be fixed!
