@@ -27,6 +27,12 @@ All lectures will be held between 1 and 3 PM.
 | 18   | Monday, April 2nd | Wednesday, May 4th   |
 | 19   | Monday May 9th    | Wednesday, May 11th  |
 
+# Slides and exercises
+
+| Lecture | Slides | Lab notebook |
+|-----:|:--------|:----|
+| 1 (4/4)  | Download (.pdf) | Download (.ipynb) |
+
 
 # Location
 
