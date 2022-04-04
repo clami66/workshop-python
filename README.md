@@ -29,7 +29,7 @@ All lectures will be held between 1 and 3 PM.
 
 # Slides and exercises
 
-** Make sure you `right-click -> Save as` to download the files! **
+** Make sure you `right-click -> Save link as` to download the files! **
 | Lecture | Slides | Lab notebook |
 |-----:|:--------|:----|
 | 1 (4/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0b047d73436aa1f180a1a8115496719e64c264a3/lectures/Lecture_1.slides.pdf) | [Download (.ipynb)](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_1_Exercise.ipynb) |
