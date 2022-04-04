@@ -10,3 +10,4 @@ dependencies:
   - spyder=4.2.0
   - jupyter
   - numpy
+  - markupsafe==2.0.1
