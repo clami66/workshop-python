@@ -52,7 +52,7 @@ If you use MobaXterm, then the "home" folder is located somewhere inside the Mob
 | 3 (11/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_3.slides.pdf) | [Download (.ipynb)](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_3_Exercise.ipynb)/[SOLUTION (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_3_Exercise_solution.ipynb) |
 | 4 (13/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_4.slides.pdf) | [Download (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_4_Exercise.ipynb) |
 | 5 (25/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_5.slides.pdf) | See lecture slides |
-| 6 (27/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_6.slides.pdf) | Last two slides in lecture |
+| 6 (27/4)  | Download [(.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_6.slides.pdf) [(.ipynb)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_6.ipynb) | Last two slides in lecture |
 
 # Location
 
