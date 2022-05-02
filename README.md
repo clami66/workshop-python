@@ -49,7 +49,7 @@ If you use MobaXterm, then the "home" folder is located somewhere inside the Mob
 |-----:|:--------|:----|
 | 1 (4/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0b047d73436aa1f180a1a8115496719e64c264a3/lectures/Lecture_1.slides.pdf) | [Download (.ipynb)](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_1_Exercise.ipynb) |
 | 2 (6/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_2.slides.pdf) | [First notebook](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_2_Exercise_1.ipynb) / [Second notebook](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_2_Exercise_2.ipynb) (.ipynb)|
-| 3 (11/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_3.slides.pdf) | [Download (.ipynb)](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_3_Exercise.ipynb)/[SOLUTION (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_3_Exercise_solution.ipynb) |
+| 3 (11/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_3.slides.pdf) | [Download (.ipynb)](https://raw.githubusercontent.com/clami66/workshop-python/0422/exercises/Lecture_3_Exercise.ipynb) / [solution (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_3_Exercise_solution.ipynb) |
 | 4 (13/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_4.slides.pdf) | [Download (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_4_Exercise.ipynb) |
 | 5 (25/4)  | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_5.slides.pdf) | See lecture slides |
 | 6 (27/4)  | Download [(.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_6.slides.pdf) [(.ipynb)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_6.ipynb) | Last two slides in lecture |
@@ -85,5 +85,5 @@ After this course you should be able to:
 
 * Edit and run Python code
 * Write file-processing python programs that produce output to the terminal and/or external files.
-* Create stand-alone python programs to process biological data
+* Create stand-alone python programs to process your own data
 * Know how to develop your skills in Python after the course (including debugging)
