@@ -16,3 +16,5 @@ tmp/
 tmp_lecture.tmp
 tmpcsstmp/*
 tmpimgtmp/*
+lectures/Day_*
+exercises/day*
