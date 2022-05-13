@@ -56,6 +56,7 @@ If you use MobaXterm, then the "home" folder is located somewhere inside the Mob
 | 7 (2/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_7.slides.pdf) | Last lecture slide |
 | 8 (9/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_8.slides.pdf) | [Download (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_8_Exercise.ipynb) |
 | 9 (11/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_9.slides.pdf) | |
+| 10 (13/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_9.slides.pdf) | [FINAL PROJECT (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/project/instructions.ipynb) |
 
 # Location
 
@@ -63,12 +64,18 @@ Al lectures and labs will be held in Jordan/Fermi.
 Check the map [here](https://old.liu.se/karta?l=sv&px_type=2&px_id=169)
 if you don't know where to find the room.
 
+# Final project
+
+Detailed instructions about the final project are available [here](https://github.com/clami66/workshop-python/raw/0422/project/instructions.ipynb) (Right click -> Save as). **The hard deadline is set for June 13th 2022 at 23:59 CET**.
+
 # Visiting hours/E-mail hours
 
-Teaching is not my main gig, so I will be answering your questions (outside of classes, of course) at a fixed time,
-every Friday from 10AM to 11AM. You are welcome to come to my office at that time, which is located at 2B:586 in the B-house.
+Visiting hours are now by appointment until the project deadline! Send me an email and we'll book a meeting over zoom or in person, whatever suits best
 
-For similar reasons, I will be answering e-mails that I received during the week at that same time, give or take.
+~~Teaching is not my main gig, so I will be answering your questions (outside of classes, of course) at a fixed time,
+every Friday from 10AM to 11AM. You are welcome to come to my office at that time, which is located at 2B:586 in the B-house.~~
+
+~~For similar reasons, I will be answering e-mails that I received during the week at that same time, give or take.~~
 
 # Course Content
 
