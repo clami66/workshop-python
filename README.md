@@ -56,7 +56,7 @@ If you use MobaXterm, then the "home" folder is located somewhere inside the Mob
 | 7 (2/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_7.slides.pdf) | Last lecture slide |
 | 8 (9/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_8.slides.pdf) | [Download (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/exercises/Lecture_8_Exercise.ipynb) |
 | 9 (11/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_9.slides.pdf) | |
-| 10 (13/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_9.slides.pdf) | [FINAL PROJECT (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/project/instructions.ipynb) |
+| 10 (13/5) | [Download (.pdf)](https://github.com/clami66/workshop-python/raw/0422/lectures/Lecture_10.slides.pdf) | [FINAL PROJECT (.ipynb)](https://github.com/clami66/workshop-python/raw/0422/project/instructions.ipynb) |
 
 # Location
 
